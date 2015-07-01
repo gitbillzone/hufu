@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
+	<key>items</key>
 	<array>
 		<dict>
 			<key>assets</key>
@@ -13,22 +13,6 @@
 					<key>url</key>
 					<string>http://119.90.52.118:9001/ioshufu/DHTongjunling.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://live.rchykj.com:5002/shenmu/shenmu_icon.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://live.rchykj.com:5002/shenmu/shenmu_icon.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -38,10 +22,8 @@
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>电魂虎符</string>
 				<key>title</key>
-				<string>电魂虎符</string>
+				<string>虎符</string>
 			</dict>
 		</dict>
 	</array>
