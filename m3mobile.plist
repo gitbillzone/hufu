@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dianhun.dhhufu</string>
+				<string>com.dianhun.xgame.M3Mobile</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>虎符</string>
+				<string>XGAME</string>
 			</dict>
 		</dict>
 	</array>
